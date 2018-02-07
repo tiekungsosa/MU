@@ -10,7 +10,7 @@
              
            
 
-                <li class="nav-item"><a href="login.php" class="nav-link logout">Logout<i class="fa fa-sign-out"></i></a></li>
+            <!--     <li class="nav-item"><a href="login.php" class="nav-link logout">Logout<i class="fa fa-sign-out"></i></a></li> -->
               </ul>
             </div>
           </div>

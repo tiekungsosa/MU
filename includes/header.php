@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>FLEXIROAMX</title>
+    <title>Profile</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="robots" content="all,follow">
@@ -60,7 +60,7 @@
           <ul id="side-main-menu" class="side-menu list-unstyled">                  
             <li><a href="index.php"> <i class="icon-home"></i>ประวัติส่วนตัว</a></li>
               <li><a href="expe.php"> <i class="icon-home"></i>ประสบการณ์ </a></li>
-                <li><a href="index.php"> <i class="icon-home"></i>การศึกษา</a></li>
+                <li><a href="study.php"> <i class="icon-home"></i>การศึกษา</a></li>
           </ul>
         </div>
        
