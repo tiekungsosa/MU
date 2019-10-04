@@ -8,7 +8,7 @@
 <!-- Contant in here-->
 <div class="jumbotron jumbotron-fluid bg-1 text-center">
   <div class="container-fluid">
-  	<h3>Do you look some one any?</h3>
+  	<h3>Do you look some one tes tse tset any?</h3>
   	</br>
   	<img src="img/p.jpg"  width="300" height="200 alt="p" >
   		</br>
